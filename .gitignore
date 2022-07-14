@@ -3,3 +3,4 @@ subprojects
 *.xbstrap
 # editor configs:
 .vscode
+.idea
