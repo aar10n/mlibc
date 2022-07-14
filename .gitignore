@@ -1,5 +1,6 @@
 subprojects
 !subprojects/*.wrap
+compile_commands.json
 *.xbstrap
 # editor configs:
 .vscode
